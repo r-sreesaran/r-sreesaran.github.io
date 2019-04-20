@@ -1,0 +1,34 @@
+#main{
+    margin-top: 3%;
+    margin-left: 30%;    
+}
+
+.panel {
+    width: 100%;
+    height: 20%;
+    display:flex;
+    margin-bottom:5ex;
+}
+
+.leftpane{
+height:100%;
+}
+
+.rightpane{
+height: 100;
+text-align:center;
+margin-left: 10ex;
+margin-top:20px;
+}
+
+#foot {
+    margin-left: 1ex;
+}
+#footer-ending {
+    margin-left: 25ex
+}
+
+img {
+    height: 10ex;
+    width: 10ex;
+}
