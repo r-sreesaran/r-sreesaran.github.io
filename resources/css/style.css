@@ -8,6 +8,7 @@
     height: 20%;
     display: flex;
    flex-direction: row;
+   align-items: center;
 }
 
 .leftpane{
@@ -16,9 +17,10 @@ height:100%;
 
 .rightpane{
 height: 100;
-text-align:center;
+width: 300px;
 margin-left: 10ex;
 margin-top:20px;
+align-content: flex-start;
 }
 
 #foot {
@@ -36,8 +38,4 @@ img {
 
 h1 {
     display: block
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> c15d516dce8dc64910a6025d75e7bf722ab002fd
